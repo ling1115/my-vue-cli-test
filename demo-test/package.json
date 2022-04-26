@@ -1,0 +1,12 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "bulid": "democli",
+    "clean": "democli clean"
+  },
+  "author": "",
+  "license": "ISC"
+}
